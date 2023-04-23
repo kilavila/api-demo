@@ -1,0 +1,24 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Entry {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  patch     String
+  champion  String
+  camps     Int
+  smites    Int
+  path      String
+  time      String
+  url       String
+  player    String
+}

@@ -1,0 +1,29 @@
+### STATUS
+
+GET http://localhost:3000
+
+### CREATE
+
+POST http://localhost:3000/create
+Content-Type: application/json
+apikey: 8e071db1950e5ad3005597bb87f9eb998c3eddf08ec2d8965c3540e4d2fbc76a56bcb7ccb9b3a5f627d68445ce0fb0eb5c366411a1788f9ca65f84531f273ee5
+
+{
+  "patch": "12.23",
+  "champion": "Bel'Veth",
+  "camps": 6,
+  "smites": 2,
+  "path": "Red-Krugs-Raptors-Wolves-Blue-Gromp",
+  "time": "03:12",
+  "url": "https://www.youtube.com/watch?v=EAbZIrCgp0U",
+  "player": "murda"
+}
+
+### FIND MANY
+
+GET http://localhost:3000/all
+apikey: 8e071db1950e5ad3005597bb87f9eb998c3eddf08ec2d8965c3540e4d2fbc76a56bcb7ccb9b3a5f627d68445ce0fb0eb5c366411a1788f9ca65f84531f273ee5
+
+### FIND ONE
+
+DELETE http://localhost:3000/delete/clgtsr8nx0000ijxectc8ro9o

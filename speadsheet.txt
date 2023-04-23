@@ -1,0 +1,76 @@
+{
+  patch: "12.23",
+  champion: "Bel'Veth",
+  camps: 6,
+  smites: 2,
+  path: "Red-Krugs-Raptors-Wolves-Blue-Gromp",
+  time: "03:12",
+  link: "https://www.youtube.com/watch?v=EAbZIrCgp0U",
+  player: "Zen Kih",
+},
+{
+  patch: "12.23",
+  champion: "Bel'Veth",
+  camps: 6,
+  smites: 2,
+  path: "Blue-Gromp-Wolves-Raptors-Red-Krugs",
+  time: "03:12",
+  link: "https://www.youtube.com/watch?v=tkGBEFwLjF0",
+  player: "Zen Kih",
+},
+{
+  patch: "13.1",
+  champion: "Blitzcrank",
+  camps: 6,
+  smites: 2,
+  path: "Blue-Gromp-Wolves-Raptors-Red-Krugs",
+  time: "03:15",
+  link: "https://www.youtube.com/watch?v=wXR0yzsMAwg",
+  player: "Zen Kih",
+},
+12.23	Darius	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	02:56	https://www.youtube.com/watch?v=XdsAi9VZZ3o	Zen Kih
+12.23	Darius	6	1	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:01	https://www.youtube.com/watch?v=yTHa5_sYotI	Zen Kih
+12.23	Diana	6	1	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:07	https://www.youtube.com/watch?v=aqJbfU7Pk8Y	Zen Kih
+12.23	Ekko	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:21	https://www.youtube.com/watch?v=EpFbqQI7pC0	Zen Kih
+12.23	Ekko	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:22	https://www.youtube.com/watch?v=iaad4BjypIo	Zen Kih
+12.23	Evelynn	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:05	https://www.youtube.com/watch?v=tCLXetQPRcQ	Zen Kih
+12.23	Ezreal	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:19	https://www.youtube.com/watch?v=nalozi7lCbM	Zen Kih
+13.1	Fiddlesticks	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:04	https://www.youtube.com/watch?v=OgAvsb-RREQ	ioprocessing
+12.23	Gnar	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:19	https://www.youtube.com/watch?v=ufl7vUyHNMs	Zen Kih
+12.23	Gragas	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:15	https://www.youtube.com/watch?v=NvkhJJubvC0	Zen Kih
+13.1	Gragas	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:17	https://www.youtube.com/watch?v=RBqzAurSfoc	Zen Kih
+12.23	Graves	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:18	https://www.youtube.com/watch?v=AtCKzibYUu4	Zen Kih
+12.23	Gwen	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:08	https://www.youtube.com/watch?v=qVkFBxwFITo	Zen Kih
+13.1	Hecarim	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:05	https://www.youtube.com/watch?v=xnpw30QjvBg	Phylaris
+13.1	Hecarim	6	1	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:09	https://www.youtube.com/watch?v=xnpw30QjvBg	Phylaris
+12.23	Kha'Zix	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:16	https://www.youtube.com/watch?v=mTRjzmiipr8	Zen Kih
+12.23	Kha'Zix	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:19	https://www.youtube.com/watch?v=anS8gsKE-es	Zen Kih
+13.1	Kindred	6	1	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:22	https://www.youtube.com/watch?v=aq9hO9UrVIk	Vymarus
+12.23	Lee Sin	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:17	https://www.youtube.com/watch?v=2uXFJgfkNLE	Zen Kih
+13.1	Maokai	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:13	https://www.youtube.com/watch?v=YgRt3SNuSys	Zen Kih
+12.23	Maokai	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:08	https://www.youtube.com/watch?v=62HlzWBfmGQ	Zen Kih
+13.1	Maokai	6	2	Raptors-Krugs-Red-Wolves-Blue-Gromp	03:11	https://www.youtube.com/watch?v=yifrXUWsnN4	Zen Kih
+12.23	Master Yi	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:06	https://www.youtube.com/watch?v=ZVVhzNLQZ1E	Zen Kih
+12.23	Nidalee	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:06	https://www.youtube.com/watch?v=Bd5ZM31aHOg	Miya
+13.1	Nidalee	6	1	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:15	https://www.youtube.com/watch?v=rx3n7tBO5eo	Vymarus
+13.1	Nocturne	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:13	https://www.youtube.com/watch?v=aHi_Ju21izg	Phylaris
+13.1	Nocturne	6	1	Red-Krugs-Raptors-Wolves-Gromp-Blue	03:16	https://www.youtube.com/watch?v=aHi_Ju21izg	Phylaris
+12.23	Olaf	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:04	https://www.youtube.com/watch?v=PCGglBhEibw	Zen Kih
+12.23	Pantheon	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:18	https://www.youtube.com/watch?v=DKhcvBVAFXc	Zen Kih
+12.23	Rengar	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:12	https://www.youtube.com/watch?v=iGBDkekLbPM	Zen Kih
+12.23	Rengar	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:12	https://www.youtube.com/watch?v=8WdPTd2tsCY	Zen Kih
+13.1	Sion	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:12	https://www.youtube.com/watch?v=nTRDAucj0tA	Zen Kih
+13.1	Sion	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:14	https://www.youtube.com/watch?v=nTRDAucj0tA	Zen Kih
+13.1	Udyr	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:03	https://www.youtube.com/watch?v=q7Hrdk-9sjw	Phylaris
+13.1	Udyr	6	1	Raptors-Krugs-Red-Wolves-Gromp-Blue	03:12	https://www.youtube.com/watch?v=q7Hrdk-9sjw	Phylaris
+12.23	Vi	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:20	https://www.youtube.com/watch?v=gf_wciqAnII	Zen Kih
+12.23	Viego	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:07	https://www.youtube.com/watch?v=Txhbs9XgQzs	Zen Kih
+12.23	Viego	6	2	Red-Krugs-Raptors-Wolves-Blue-Gromp	03:08	https://www.youtube.com/watch?v=Txhbs9XgQzs	Zen Kih
+12.23	Volibear	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:05	https://www.youtube.com/watch?v=IPYcfbJJZL0	Zen Kih
+12.23	Warwick	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:21	https://www.youtube.com/watch?v=PHOLEPSiXNs	Zen Kih
+12.23	Wukong	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:18	https://www.youtube.com/watch?v=Uo6IrgH11nQ	Zen Kih
+12.23	Xin Zhao	6	2	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:20	https://www.youtube.com/watch?v=sbltsLi8WA4	Zen Kih
+13.1	Yorick	6	2	Wolves-Blue-Gromp-Raptors-Red-Krugs	03:16	https://www.youtube.com/watch?v=hj8aiagcPOE	Zen Kih
+13.1	Zac	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	03:17	https://www.youtube.com/watch?v=GU_zHNf8yoI	Phylaris
+13.1	Zac	6	1	Red-Krugs-Raptors-Wolves-Gromp-Blue	03:21	https://www.youtube.com/watch?v=GU_zHNf8yoI	Phylaris
+12.23	Zed	6	1	Blue-Gromp-Wolves-Raptors-Red-Krugs	02:54	https://www.youtube.com/watch?v=gTXeESM2ldo	Zen Kih
